@@ -25,7 +25,7 @@ un orden en los archivos.
 Jueves 04/10/2018
 
 1) --------------
-
+ 
 2) --------------
 
 3) Cuando disponía de tiempo para dedicar a las tareas no tenía electricidad.
@@ -43,3 +43,14 @@ de que iba a realizar el diseño de la misma.
 
 3) El equipo que disponía al comienzo del proyecto se me dañó, estoy trabajando con una PC
 un poco lenta para desarrollar efectivamente mis entregables.
+
+Lunes 08/10/2018
+
+1) Realicé una maquetación para la página de Proof of Tree y estuve ayudando a mis compañeros a
+la organización de la subida de archivos a GitHub mediante el uso de ramas individuales por Git.
+
+2) Espero a que mi compañero Jesús Correa pueda unir un código que le pasé con la animación del
+formulario para así ir agregando el contenido que fue enviado por marketing, además de las imágenes.
+
+3) Se ha presentado muchos problemas para la subida sincronizada del trabajo en GitHub, para que así
+el equipo pueda manejarse de forma organizada con los códigos.
