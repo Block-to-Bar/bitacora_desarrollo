@@ -17,21 +17,27 @@ Miércoles 03/10
        
 
 Jueves 04/10
-       
+       Estuve en otras actividades, estuve desconectado de mis actividades con Bit&Nibs
 
 Viernes 05/10
-      
+      Estuve en otras actividades, estuve desconectado de mis actividades con Bit&Nibs
 
 Sábado 06/10
-      
-
+      Estuve en otras actividades, estuve desconectado de mis actividades con Bit&Nibs
 Domingo 07/10
 
-      
-Lunes 08/10
+      Estuve en otras actividades, estuve desconectado de mis actividades con Bit&Nibs
 
+Lunes 08/10
+        1) Inicie tarea de códigos CSS para la lading page.
+        2)Terminar la tarea de los códigos al colocar el estilo CSS.
+        3) Error en el código, que no me permite ver el código html de manera correcta.
 
 Martes 09/10
+        1) Estuve trabajando en el código CSS, investigando.
+        2) En culminar la tarea de CSS y subir los documentos del Spirnt 3 a GitHub.
+        3) Se me ha dificultado la interpretación y modificación del código, tengo
+        problemas con la implementación de los estilos CSS en el código.
 
 
 Miércoles 10/10
